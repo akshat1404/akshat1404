@@ -30,7 +30,7 @@ A Claude skill that catalogs the recurring habits that make writing read as AI-g
 
 ### Writing
 
-90+ articles on frontend systems, performance, and the parts of the job that don't show up in tutorials, published through Level Up Coding, gitconnected, and JavaScript in Plain English.
+150+ articles on frontend systems, performance, and the parts of the job that don't show up in tutorials, published through Level Up Coding, gitconnected, and JavaScript in Plain English.
 
 → [medium.com/@akshatmtiwari](https://medium.com/@akshatmtiwari)
 
