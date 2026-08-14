@@ -20,7 +20,7 @@ I design the architecture behind AI agent systems in React and TypeScript: how m
 
 ### Projects
 
-**[Designware](https://github.com/akshat1404/Designware)**
+**[Specular](https://github.com/akshat1404/Specular)**
 Audits a shipped product against its own design token spec by reading what the browser actually rendered, not what the code claims it should look like. Core engine is done; adapters for public design systems (GitHub, IBM Carbon) are in progress.
 
 **[the-human-touch](https://github.com/akshat1404/the-human-touch)**
