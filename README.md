@@ -4,7 +4,7 @@
 
 **AI Agent Architecture · Frontend Systems**
 
-Currently working as a Software Engineer at Arcesium | Designing AI Agents, Discussing Frontend Architecture and Building UX Judgement | Writing about how software actually works.
+Currently working as a Software Engineer at Arcesium | Designing AI Agents, Discussing Frontend Architecture and Building UX Judgement 
 
 [Medium](https://medium.com/@akshatmtiwari) · [LinkedIn](https://www.linkedin.com/in/akshat-tiwari-951b68201/)
 
@@ -25,6 +25,8 @@ Audits a shipped product against its own design token spec by reading what the b
 
 **[the-human-touch](https://github.com/akshat1404/the-human-touch)**
 A Claude skill that catalogs the recurring habits that make writing read as AI-generated, with a working checker script for fourteen of them. Built from editing enough of my own drafts to notice the patterns.
+
+and more to come ...
 
 <br>
 
