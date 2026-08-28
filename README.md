@@ -23,6 +23,9 @@ I design the architecture behind AI agent systems in React and TypeScript: how m
 **[Specular](https://github.com/akshat1404/Specular)**
 Audits a shipped product against its own design token spec by reading what the browser actually rendered, not what the code claims it should look like. Core engine is done; adapters for public design systems (GitHub, IBM Carbon) are in progress.
 
+**[Openbundle](https://github.com/akshat1404/Openbundle)**
+Openbundle is a real, working JavaScript bundler, plus an interactive website that visualizes its own real internal analysis.
+
 **[the-human-touch](https://github.com/akshat1404/the-human-touch)**
 A Claude skill that catalogs the recurring habits that make writing read as AI-generated, with a working checker script for fourteen of them. Built from editing enough of my own drafts to notice the patterns.
 
