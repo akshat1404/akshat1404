@@ -6,7 +6,7 @@
 
 Currently working as a Software Engineer at Arcesium | Designing AI Agents, Discussing Frontend Architecture and Building UX Judgement 
 
-[Medium](https://medium.com/@akshatmtiwari) · [LinkedIn](https://www.linkedin.com/in/akshat-tiwari-951b68201/)
+[Medium](https://medium.com/@akshatmtiwari) · [LinkedIn](https://www.linkedin.com/in/akshat-tiwari-951b68201/) · [Beehiiv](https://akshats-newsletter-0bdd51.beehiiv.com/)
 
 </div>
 
