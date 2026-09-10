@@ -30,13 +30,16 @@ Openbundle is a real, working JavaScript bundler, plus an interactive website th
 **[the-human-touch](https://github.com/akshat1404/the-human-touch)**
 A Claude skill that catalogs the recurring habits that make writing read as AI-generated, with a working checker script for fourteen of them. Built from editing enough of my own drafts to notice the patterns.
 
+**[pattern-recognition-for-algorithms](https://akshat1404.github.io/pattern-recognition-for-algorithms)**
+This guide starts from two questions I want answered for every problem on NeetCode 250. First, given a problem, how do I map it to the algorithm it actually needs, which means understanding when that algorithm is useful in the first place, not just what it does. Second, once I know which algorithm fits, what shape does the code for it usually take.
+
 and more to come ...
 
 <br>
 
 ### Writing
 
-150+ articles on frontend systems, performance, and the parts of the job that don't show up in tutorials, published through Level Up Coding, gitconnected, and JavaScript in Plain English.
+150+ articles on frontend systems, performance, and the parts of the job that don't show up in tutorials, published through Level Up Coding, git[connected, and JavaScript in Plain En](https://akshat1404.github.io/pattern-recognition-for-algorithms/)glish.
 
 → [medium.com/@akshatmtiwari](https://medium.com/@akshatmtiwari)
 
