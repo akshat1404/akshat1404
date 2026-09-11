@@ -39,7 +39,7 @@ and more to come ...
 
 ### Writing
 
-150+ articles on frontend systems, performance, and the parts of the job that don't show up in tutorials, published through Level Up Coding, git[connected, and JavaScript in Plain En](https://akshat1404.github.io/pattern-recognition-for-algorithms/)glish.
+150+ articles on frontend systems,AI Agents, performance, and the parts of the job that don't show up in tutorials, published through Level Up Coding, gitconnected, and JavaScript in Plain English.
 
 → [medium.com/@akshatmtiwari](https://medium.com/@akshatmtiwari)
 
